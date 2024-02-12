@@ -1,0 +1,9 @@
+domains:
+  - domain: cce-demo.sdombi.hu
+    secretName: letsencrypt-demo-sdombi
+    namespace: default
+    elb: true
+    wafId: 5c012ce68a124f77be4e7b6a447708e0
+  - domain: nothing.sdombi.hu
+    secretName: something
+    namespace: something

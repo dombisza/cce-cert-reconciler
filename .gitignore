@@ -1,0 +1,5 @@
+.envrc
+kubeconfig
+cce-cm-reconciler
+cce-cert-reconciler
+local.go
